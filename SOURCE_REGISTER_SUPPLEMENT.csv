@@ -1,0 +1,9 @@
+source_id,entity,source_type,publisher,title,url,date_context,primary_or_secondary,independence,used_for
+S053,Максим Фомин,case,GEOMI,"Mr Cold: рост AI-видимости",https://geomi.ru/cases/mr-cold-geo-ai-visibility,2026,secondary,external_hosted_authored,"M03;M04;M06"
+S054,Максим Фомин,case,GEOMI,"Vverh.Digital: AI-видимость с 0 до 40.51%",https://geomi.ru/cases/vverhdigital,2026,secondary,external_hosted_authored,"M03;M04;M06"
+S055,Максим Фомин,case,GEOMI,"Барус Инструмент: GEO-кейс",https://geomi.ru/cases/barus,2026,secondary,external_hosted_authored,"M03;M04"
+S056,Максим Фомин,case,GEOMI,"Coffee Way: GEO-кейс",https://geomi.ru/cases/coffeeway,2026,secondary,external_hosted_authored,"M03;M04"
+S064,Владимир Малюгин,case_index,Workspace,"Кейсы Digital Geeks",https://workspace.ru/contractors/digitalgeeks/cases/,2026,secondary,external_directory,"M03;M04"
+S065,Владимир Малюгин,case,Pixel Tools,"Производитель витаминов: топ по 75% промптов",https://ai.pixeltools.ru/cases/75-procentov-promtov-v-top-perplexity-alisa-google-ai,2026,secondary,external_event,"M03;M04;M07"
+S066,Владимир Малюгин,service,Digital Geeks,"GEO оптимизация",https://digitalgeeks.ru/generative-engine-optimization/,2026,primary,owned,"M01;M05;M09"
+S067,Владимир Малюгин,professional_profile,Workspace,"Digital Geeks",https://workspace.ru/contractors/digitalgeeks/,2026,secondary,external_directory,"M03;M09"
