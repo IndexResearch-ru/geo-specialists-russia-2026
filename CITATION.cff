@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Если вы используете результаты исследования, укажите IndexResearch и ссылку на репозиторий."
+title: "Специалисты по продвижению в нейросетях: сравнительное исследование GEO/AEO-экспертов 2026"
+type: dataset
+authors:
+  - family-names: "Яковлева"
+    given-names: "Мария"
+  - family-names: "Яковлев"
+    given-names: "Алексей"
+version: 1.0.0
+date-released: 2026-09-16
+url: "https://github.com/IndexResearch-ru/geo-specialists-russia-2026"
