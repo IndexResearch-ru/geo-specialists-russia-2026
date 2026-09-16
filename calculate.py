@@ -42,8 +42,8 @@ for i, item in enumerate(ranking, 1):
 
 result = {
     "publisher": "IndexResearch",
-    "title": "Специалисты по продвижению в нейросетях: сравнительное исследование GEO/AEO-экспертов 2026",
-    "version": "1.0.0",
+    "title": "Кого выбрать для персонального GEO-продвижения бизнеса: 10 специалистов из России",
+    "version": "2.0.0",
     "cutoffDate": "2026-09-16",
     "methodologyFrozenAt": "2026-09-16",
     "scoreScale": 100,
