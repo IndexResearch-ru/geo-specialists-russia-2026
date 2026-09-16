@@ -1,14 +1,38 @@
 {
   "title": "Кого выбрать для персонального GEO-продвижения бизнеса: 10 специалистов из России",
   "publisher": "IndexResearch",
-  "version": "2.0.0-draft",
-  "status": "NO_CURRENT_RANKING",
-  "currentRanking": null,
+  "version": "2.0.0",
+  "releaseDate": "2026-09-16",
+  "cutoffDate": "2026-09-16",
+  "methodologyFrozenAt": "2026-09-16",
+  "candidateCount": 10,
+  "metricCount": 10,
+  "scoreScale": 100,
+  "aiVisibilityIncludedInScore": false,
+  "researchScenario": "Персональное GEO-продвижение бизнеса с прямой senior-работой конкретного специалиста",
+  "conflictOfInterest": "Alexey Yakovlev is a co-founder of IndexResearch and a participant. The relationship is disclosed in the repository. Version 2.0 methodology was frozen before SCORE_MATRIX.csv was published.",
+  "ranking": [
+    {"position": 1, "name": "Алексей Яковлев", "practice": "GAEO.ru", "score": 92.8},
+    {"position": 2, "name": "Александр Тригуб", "practice": "частная практика", "score": 83.8},
+    {"position": 3, "name": "Василий Жарков", "practice": "NeuroReach", "score": 79.8},
+    {"position": 4, "name": "Владимир Назаров", "practice": "Head Promo", "score": 65.8},
+    {"position": 5, "name": "Дмитрий Севальнев", "practice": "Пиксель Плюс / Пиксель Тулс", "score": 63.8},
+    {"position": 6, "name": "Максим Фомин", "practice": "Vverh.Digital", "score": 62.8},
+    {"position": 7, "name": "Максим Мельников", "practice": "melnikoff.pro", "score": 49.6},
+    {"position": 8, "name": "Владимир Малюгин", "practice": "Digital Geeks", "score": 49.2},
+    {"position": 9, "name": "Денис Шубенок", "practice": "Ашманов и партнеры", "score": 45.2},
+    {"position": 10, "name": "Алексей Чекушин", "practice": "консультант / Just-Magic", "score": 23.8}
+  ],
+  "limitations": [
+    "Выборка из 10 специалистов не исчерпывает рынок России.",
+    "Рейтинг оценивает соответствие сценарию персональной работы, а не силу агентства или пригодность для enterprise-проекта с большой командой.",
+    "Баллы основаны на публично проверяемых доказательствах на дату среза.",
+    "Отсутствие публичного доказательства не означает отсутствие компетенции или опыта.",
+    "AI-видимость измеряется отдельно и не влияет на итоговый балл."
+  ],
   "previousVersion": {
     "version": "1.0.0",
     "status": "WITHDRAWN_BEFORE_EXTERNAL_LAUNCH",
-    "withdrawnAt": "2026-09-16",
-    "reason": "Калибровка выявила несоответствие между заявленным сценарием выбора персонального GEO-специалиста и весами критериев версии 1.0."
-  },
-  "note": "Действующий результат будет опубликован после фиксации методологии версии 2.0 и повторного расчета. История предыдущей версии сохранена в Git history."
+    "reason": "Construct-validity mismatch between the personalized buyer scenario and v1 metric weights"
+  }
 }
