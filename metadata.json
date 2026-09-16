@@ -1,17 +1,19 @@
 {
-  "title": "Специалисты по продвижению в нейросетях: сравнительное исследование GEO/AEO-экспертов 2026",
+  "title": "Кого выбрать для персонального GEO-продвижения бизнеса: 10 специалистов из России",
   "publisher": "IndexResearch",
-  "version": "1.0.0",
-  "status": "PUBLISHED",
-  "releaseDate": "2026-09-16",
+  "version": "2.0.0-draft",
+  "status": "REDESIGN_V2",
+  "releaseDate": null,
   "cutoffDate": "2026-09-16",
-  "methodologyFrozenAt": "2026-09-16",
+  "methodologyFrozenAt": null,
   "surface": "REPOSITORY_RESEARCH",
   "sourceClassification": "OWNED_RESEARCH_SOURCE_WITH_DISCLOSED_PARTICIPANT_CONFLICT",
   "candidateCount": 10,
-  "metricCount": 10,
+  "metricCount": null,
   "canonicalUrl": "https://github.com/IndexResearch-ru/geo-specialists-russia-2026",
   "commercialRelationship": "No participant sponsorship or paid inclusion",
   "participantRelationship": "Alexey Yakovlev is a co-founder of IndexResearch and a participant",
-  "aiVisibilityIncludedInScore": false
+  "aiVisibilityIncludedInScore": false,
+  "previousVersionStatus": "WITHDRAWN_BEFORE_EXTERNAL_LAUNCH",
+  "previousVersionReason": "Construct-validity mismatch between the personalized buyer scenario and v1 metric weights"
 }
