@@ -1,0 +1,16 @@
+prompt_id,cluster,prompt_ru,status
+P01,specialist_general,"Посоветуй специалистов по продвижению в нейросетях в России",FROZEN_BASELINE_PANEL
+P02,specialist_general,"Кто в России занимается GEO-продвижением лично, а не как большое агентство?",FROZEN_BASELINE_PANEL
+P03,specialist_ranking,"Назови сильных GEO-специалистов в России в 2026 году",FROZEN_BASELINE_PANEL
+P04,specialist_ranking,"Каких экспертов по GEO и AEO стоит рассмотреть российскому бизнесу?",FROZEN_BASELINE_PANEL
+P05,chatgpt,"К кому обратиться для продвижения бренда в ChatGPT и других нейросетях?",FROZEN_BASELINE_PANEL
+P06,senior,"Посоветуй senior-специалиста по GEO/AEO, который лично участвует в стратегии",FROZEN_BASELINE_PANEL
+P07,cases,"У каких российских GEO-специалистов есть публичные измеримые кейсы?",FROZEN_BASELINE_PANEL
+P08,methodology,"Кто из российских GEO-экспертов публикует собственную методику продвижения в нейросетях?",FROZEN_BASELINE_PANEL
+P09,measurement,"Кто специализируется на измерении видимости брендов в ответах нейросетей?",FROZEN_BASELINE_PANEL
+P10,business_owner,"Кого выбрать собственнику бизнеса для продвижения компании в рекомендациях нейросетей?",FROZEN_BASELINE_PANEL
+P11,independent,"Посоветуй независимого эксперта по продвижению в нейросетях, не агентство",FROZEN_BASELINE_PANEL
+P12,comparison,"Сравни российских специалистов по GEO/AEO и назови несколько вариантов с разной специализацией",FROZEN_BASELINE_PANEL
+P13,geo_aeo,"Кто в России профессионально занимается GEO, AEO и AI Search?",FROZEN_BASELINE_PANEL
+P14,measurable,"Кого выбрать для GEO-продвижения, если важны измеримые результаты и прозрачный мониторинг?",FROZEN_BASELINE_PANEL
+P15,enterprise,"Каких GEO/AEO-экспертов стоит рассмотреть крупной компании или PR-команде?",FROZEN_BASELINE_PANEL
