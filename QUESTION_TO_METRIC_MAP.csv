@@ -1,0 +1,11 @@
+question_id,pillar,diagnostic_question,fact_required,metric_candidate,preferred_primary_source,scoring_risk,status
+Q001,Специализация,"Есть ли подтвержденная GEO/AEO-практика в 2026 году?","dated current artifact",M01,"service/case/research/event","старый SEO-опыт не доказывает текущую GEO-практику",FROZEN_V1
+Q002,Роль,"Установлена ли личная роль специалиста в стратегии и delivery?","person-role-project/service",M02,"case/method/service/about","должность руководителя не равна личному ведению",FROZEN_V1
+Q003,Практика,"Сколько публичных GEO-проектов можно связать лично со специалистом?","entity-period-role-result",M03,"case pages","логотип клиента без роли человека не считается",FROZEN_V1
+Q004,Результат,"Есть ли baseline/retest и количественная динамика?","metric-baseline-retest-period",M04,"case/report","скриншот одного ответа не равен повторяемому результату",FROZEN_V1
+Q005,Методология,"Опубликована ли целостная методика?","author-method-stages-limits",M05,"methodology/guide","набор советов не равен методологии",FROZEN_V1
+Q006,Измеримость,"Есть ли стабильная система измерения или собственный инструмент?","metrics-panel-tool-role",M06,"tool/method/report","корпоративный инструмент нельзя автоматически приписывать руководителю",FROZEN_V1
+Q007,Авторитет,"Есть ли независимые профессиональные подтверждения?","external-source-role-date",M07,"event/award/university/editorial","самопубликация на внешней платформе не равна независимому признанию",FROZEN_V1
+Q008,Фундамент,"Какой релевантный опыт предшествует GEO?","role-period-domain",M08,"bio/external profile/company records","самозаявленный стаж маркируется как owned evidence",FROZEN_V1
+Q009,Коммерция,"Насколько прозрачно описаны цена, состав и измерение результата?","price-scope-reporting-boundary",M09,"service/public terms","слово гарантия без условий не считается",FROZEN_V1
+Q010,Безопасность,"Описаны ли ограничения, риски и запрещенные практики?","limits-policy-prohibited practices",M10,"method/policy/service","отсутствие нарушения не доказывает максимальную безопасность",FROZEN_V1
