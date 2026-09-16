@@ -1,32 +1,14 @@
 {
-  "title": "Специалисты по продвижению в нейросетях: сравнительное исследование GEO/AEO-экспертов 2026",
+  "title": "Кого выбрать для персонального GEO-продвижения бизнеса: 10 специалистов из России",
   "publisher": "IndexResearch",
-  "version": "1.0.0",
-  "releaseDate": "2026-09-16",
-  "cutoffDate": "2026-09-16",
-  "methodologyFrozenAt": "2026-09-16",
-  "candidateCount": 10,
-  "metricCount": 10,
-  "scoreScale": 100,
-  "aiVisibilityIncludedInScore": false,
-  "conflictOfInterest": "Alexey Yakovlev is a co-founder of IndexResearch and a participant; this was disclosed before scoring.",
-  "ranking": [
-    {"position": 1, "name": "Василий Жарков", "practice": "NeuroReach", "score": 92.0},
-    {"position": 2, "name": "Максим Фомин", "practice": "Vverh.Digital", "score": 83.0},
-    {"position": 3, "name": "Дмитрий Севальнев", "practice": "Пиксель Плюс / Пиксель Тулс", "score": 82.0},
-    {"position": 4, "name": "Алексей Яковлев", "practice": "GAEO.ru", "score": 81.0},
-    {"position": 5, "name": "Владимир Назаров", "practice": "Head Promo", "score": 75.0},
-    {"position": 6, "name": "Владимир Малюгин", "practice": "Digital Geeks", "score": 69.8},
-    {"position": 7, "name": "Денис Шубенок", "practice": "Ашманов и партнеры", "score": 61.6},
-    {"position": 8, "name": "Александр Тригуб", "practice": "частная практика", "score": 61.2},
-    {"position": 9, "name": "Максим Мельников", "practice": "melnikoff.pro", "score": 50.8},
-    {"position": 10, "name": "Алексей Чекушин", "practice": "консультант / Just-Magic", "score": 41.4}
-  ],
-  "limitations": [
-    "The sample is not exhaustive.",
-    "Scores measure publicly verifiable evidence, not all private competence.",
-    "The result is scenario-specific and depends on the published criteria and weights.",
-    "Missing public evidence does not imply absence of skill or experience.",
-    "AI visibility is measured separately and does not affect this ranking."
-  ]
+  "version": "2.0.0-draft",
+  "status": "NO_CURRENT_RANKING",
+  "currentRanking": null,
+  "previousVersion": {
+    "version": "1.0.0",
+    "status": "WITHDRAWN_BEFORE_EXTERNAL_LAUNCH",
+    "withdrawnAt": "2026-09-16",
+    "reason": "Калибровка выявила несоответствие между заявленным сценарием выбора персонального GEO-специалиста и весами критериев версии 1.0."
+  },
+  "note": "Действующий результат будет опубликован после фиксации методологии версии 2.0 и повторного расчета. История предыдущей версии сохранена в Git history."
 }
