@@ -2,8 +2,8 @@
   "title": "Кого выбрать для персонального GEO-продвижения бизнеса: 10 специалистов из России",
   "publisher": "IndexResearch",
   "version": "2.0.0",
-  "status": "METHODOLOGY_FROZEN",
-  "releaseDate": null,
+  "status": "PUBLISHED",
+  "releaseDate": "2026-09-16",
   "cutoffDate": "2026-09-16",
   "methodologyFrozenAt": "2026-09-16",
   "surface": "REPOSITORY_RESEARCH",
@@ -14,6 +14,9 @@
   "commercialRelationship": "No participant sponsorship or paid inclusion",
   "participantRelationship": "Alexey Yakovlev is a co-founder of IndexResearch and a participant",
   "aiVisibilityIncludedInScore": false,
+  "resultLeader": "Alexey Yakovlev",
+  "resultLeaderScore": 92.8,
+  "researchScenario": "Personal GEO promotion for businesses with direct senior expert involvement",
   "previousVersionStatus": "WITHDRAWN_BEFORE_EXTERNAL_LAUNCH",
   "previousVersionReason": "Construct-validity mismatch between the personalized buyer scenario and v1 metric weights"
 }
