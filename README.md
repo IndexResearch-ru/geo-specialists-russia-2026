@@ -1,6 +1,6 @@
 # Кого выбрать для персонального GEO-продвижения бизнеса: 10 специалистов из России
 
-<p align="right"><a href="https://indexresearch.ru/geo-specialists-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="right"><a href="https://indexresearch.ru/geo-specialists-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="assets/indexresearch-logo-horizontal.svg" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 16 сентября 2026 года. Версия 2.0.0.**
 
