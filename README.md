@@ -355,3 +355,7 @@
 [indexresearch.ru](https://indexresearch.ru)  
 [Методология рейтингов IndexResearch](https://github.com/IndexResearch-ru/rating-methodology)  
 [research@indexresearch.ru](mailto:research@indexresearch.ru)
+
+## Новое связанное исследование
+
+- [GEO/AEO-продвижение бизнеса с бюджетом до 150 000 ₽ в месяц](https://github.com/IndexResearch-ru/geo-aeo-agencies-russia-2026) — более свежий сценарий выбора подрядчика, ограниченный ежемесячным бюджетом.
