@@ -345,7 +345,7 @@
 - Владимир Назаров / Head Promo: стратегическая роль и GEO-кейсы (S040–S043, V206–V207)
 - [Vverh.Digital / Workspace – кейс архитектурной компании](https://workspace.ru/cases/prodvizhenie-brend-arhitekturnoy-kompanii-v-otvetah-neyrosetey/)
 - [НИУ ВШЭ – Владимир Малюгин](https://marketing.hse.ru/about/team/malyugin)
-- [Pixel Tools – Flowwow удвоил видимость в нейросетях](https://ai.pixeltools.ru/geo-videos/flowwow-udvoil-vidimost-v-neyrosetyah)
+- Pixel Tools: кейс Flowwow с измеримой видимостью в нейросетях (источник зафиксирован в реестрах)
 - Максим Мельников / melnikoff.pro: профиль и кейс нейропоиска (S100–S102, V217)
 - Just-Magic (S081, V214)
 
